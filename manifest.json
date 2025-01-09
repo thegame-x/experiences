@@ -1,6 +1,6 @@
 {
   "name": "THE GAME X",
-  "short_name": "The Game X",
+  "short_name": "THE GAME X",
   "icons": [
     {
       "src": "https://raw.githubusercontent.com/thegame-x/experiences/main/android-chrome-192x192.png",
@@ -15,6 +15,6 @@
   ],
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#000000",
-  "theme_color": "#ffffff"
+  "background_color": "#292929",
+  "theme_color": "#000000"
 }
