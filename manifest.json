@@ -3,12 +3,12 @@
   "short_name": "The Game X",
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/thegame-x/experiences/main/favicon_192.png",
+      "src": "https://raw.githubusercontent.com/thegame-x/experiences/main/android-chrome-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://raw.githubusercontent.com/thegame-x/experiences/main/favicon_512.png",
+      "src": "https://raw.githubusercontent.com/thegame-x/experiences/main/android-chrome-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
